@@ -1,3 +1,10 @@
+```
+P1.6 RXD1
+P1.7 TXD1
+P3.1 TXD 
+P3.0 RXD
+```
+
 Features
 ======
 
